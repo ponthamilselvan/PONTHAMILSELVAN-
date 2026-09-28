@@ -1,3 +1,4 @@
+from database import db
 """PocketSmart AI - FastAPI backend (clean build)"""
 import os, uuid, shutil, hmac, hashlib, base64
 from datetime import datetime, timedelta
